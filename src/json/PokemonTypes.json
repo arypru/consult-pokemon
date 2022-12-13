@@ -1,0 +1,114 @@
+{
+  "pokemonTypes": [
+    {
+      "id": 1,
+      "name": "Normal",
+      "color": "#919AA2",
+      "icon": "/types/normal.svg"
+    },
+    {
+      "id": 2,
+      "name": "Fighting",
+      "color": "#CE416B",
+      "icon": "/types/fighting.svg"
+    },
+    {
+      "id": 3,
+      "name": "Flying",
+      "color": "#89AAE3",
+      "icon": "/types/flying.svg"
+    },
+    {
+      "id": 4,
+      "name": "Poison",
+      "color": "#B567CE",
+      "icon": "/types/poison.svg"
+    },
+    {
+      "id": 5,
+      "name": "Ground",
+      "color": "#D97845",
+      "icon": "/types/ground.svg"
+    },
+    {
+      "id": 6,
+      "name": "Rock",
+      "color": "#C5B78C",
+      "icon": "/types/rock.svg"
+    },
+    {
+      "id": 7,
+      "name": "Bug",
+      "color": "#91C12F",
+      "icon": "/types/bug.svg"
+    },
+    {
+      "id": 8,
+      "name": "Ghost",
+      "color": "#5269AD",
+      "icon": "/types/ghost.svg"
+    },
+    {
+      "id": 9,
+      "name": "Steel",
+      "color": "#5A8EA2",
+      "icon": "/types/steel.svg"
+    },
+    {
+      "id":10,
+      "name": "Fire",
+      "color": "#FF9D55",
+      "icon": "/types/fire.svg"
+    },
+    {
+      "id": 11,
+      "name": "Water",
+      "color": "#5090D6",
+      "icon": "/types/water.svg"
+    },
+    {
+      "id": 12,
+      "name": "Grass",
+      "color": "#63BC5A",
+      "icon": "/types/grass.svg"
+    },
+
+    {
+      "id": 13,
+      "name": "Electric",
+      "color": "#F4D23C",
+      "icon": "/types/electric.svg"
+    },
+
+    {
+      "id": 14,
+      "name": "Psychic",
+      "color": "#FA7179",
+      "icon": "/types/psychic.svg"
+    },
+    {
+      "id": 15,
+      "name": "Ice",
+      "color": "#73CEC0",
+      "icon": "/types/ice.svg"
+    },
+    {
+      "id": 16,
+      "name": "Dragon",
+      "color": "#0B6DC3",
+      "icon": "/types/dragon.svg"
+    },
+    {
+      "id": 17,
+      "name": "Dark",
+      "color": "#5A5465",
+      "icon": "/types/dark.svg"
+    },
+    {
+      "id": 18,
+      "name": "Fairy",
+      "color": "#EC8FE6",
+      "icon": "/types/fairy.svg"
+    }
+  ]
+}
